@@ -1,0 +1,31 @@
+.app {
+  display: flex;
+  flex-flow: column nowrap;
+  padding: 40px;
+}
+
+.lightbulb {
+  display: flex;
+  align-items: center;
+  flex-flow: column nowrap;
+  padding: 20px;
+}
+
+.main-button {
+    align-self: center;
+    margin-bottom: 30px;
+}
+
+.main-input {
+  width: 20%;
+  align-self: center;
+}
+
+.button-row {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.lightbulb-button {
+  margin-top: 20px;
+}
